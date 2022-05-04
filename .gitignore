@@ -5,6 +5,7 @@
 !/src
 /src/generated
 /.vs
+/amWiki
 
 # files
 !/.gitignore
